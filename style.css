@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(140, 125, 125) ;
+}
+
+    .clas1{
+        width: 100px;
+        height: 50px;
+        background-color: green;
+
+    }
+
+    .clas1:hover {
+        transform: scale(2);
+
+    }
+
+
